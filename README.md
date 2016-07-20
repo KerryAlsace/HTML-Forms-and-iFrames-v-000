@@ -38,7 +38,7 @@ When the user clicks the submit button of our form all their responses are captu
 
 ![HTTP Get URL](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/http-get-url.png)
 
-By looking at the headers of our request in the Developer Tools > Network tab, we can see the request type listed as GET, and our users responses is located in Query String Parameters.
+By looking at the headers of our request in the Developer Tools > Network tab, we can see the request type listed as GET, and our user's responses are located in Query String Parameters.
 
 ![HTTP Get Headers](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/http-get-headers.png)
 
